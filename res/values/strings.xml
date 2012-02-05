@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PruebaAndroidBeamActivity!</string>
+    <string name="app_name">BeamText</string>
+    <string name="InstructionsMessage">Escribe el texto que quieras enviar a continuación y junta tu teléfono con otro disposivo compatible con Beam.</string>
+    <string name="clear">Limpiar</string>
+    <string name="noNFC">NFC no está disponible, la aplicación no funcionará</string>
+    <string name="messageSent">Mensaje enviado</string>
+    <string name="close">Cerrar</string>
+    <string name="reply">Contestar</string>
+
+</resources>
